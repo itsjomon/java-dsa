@@ -7,3 +7,4 @@ Java implementations and data structures & algorithms concepts.
 - [Setup Java Locally](setup.md)
 - [Introduction to Java](java-intro.md)
 - [Differences Between JDK, JRE, and JVM](jdk-jre-jvm.md)
+- [Flowcharts and Pseudocode](flowcharts-and-pseudocode/README.md)
