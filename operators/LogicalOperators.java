@@ -1,0 +1,54 @@
+package operators;
+
+public class LogicalOperators {
+    @SuppressWarnings("unused")
+    public static void main(String[] args) {
+        // Logical AND
+        System.out.println((3>2) && (5>0)); // true
+        System.out.println((3<2) && (4>1)); // false
+
+        // Logical OR
+        System.out.println((3>2) || (5>0)); // true
+        System.out.println((3<2) || (4>1)); // true
+        System.out.println((1>2) || (4<1)); // false
+
+        // Logical NOT
+        System.out.println(!(5>0)); // false
+        System.out.println(!(0>5)); // true
+    }
+}
+
+/*
+Logical Operators
+
+| Operator | Description   |
+|----------|---------------|
+| &&       | Logical AND   |
+| ||       | Logical OR    |
+| !        | Logical NOT   |
+
+
+&& (Logical AND)
+| Statement 1 | Statement 2 | Result |
+|-------------|-------------|--------|
+| T           | T           | T      |
+| T           | F           | F      |
+| F           | T           | F      |
+| F           | F           | F      |
+
+
+|| (Logical OR)
+| Statement 1 | Statement 2 | Result |
+|-------------|-------------|--------|
+| T           | T           | T      |
+| T           | F           | T      |
+| F           | T           | T      |
+| F           | F           | F      |
+
+
+! (Logical NOT)
+| Statement | Result |
+|-----------|--------|
+| T         | F      |
+| F         | T      |
+ */
