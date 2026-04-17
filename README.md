@@ -10,3 +10,4 @@ Java implementations and data structures & algorithms concepts.
 - [Flowcharts and Pseudocode](flowcharts-and-pseudocode/README.md)
 - [Variables and Data Types](variablesanddatatypes)
 - [Operators](operators)
+- [Conditional Statements](conditionalstatements)
