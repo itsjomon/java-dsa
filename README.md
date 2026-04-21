@@ -11,3 +11,4 @@ Java implementations and data structures & algorithms concepts.
 - [Variables and Data Types](variablesanddatatypes)
 - [Operators](operators)
 - [Conditional Statements](conditionalstatements)
+- [Loops (Flow Control)](loops)
