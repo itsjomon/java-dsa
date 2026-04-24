@@ -12,3 +12,4 @@ Java implementations and data structures & algorithms concepts.
 - [Operators](operators)
 - [Conditional Statements](conditionalstatements)
 - [Loops (Flow Control)](loops)
+- [Patterns (Part 1)](patterns/part1)
