@@ -14,3 +14,4 @@ Java implementations and data structures & algorithms concepts.
 - [Loops (Flow Control)](loops)
 - [Patterns (Part 1)](patterns/part1)
 - [Functions and Methods](functionsandmethods)
+- [Patterns (Part 2) - Advanced](patterns/part2)
