@@ -17,3 +17,4 @@ Java implementations and data structures & algorithms concepts.
 - [Patterns (Part 2) - Advanced](patterns/part2)
 - [Array](array)
     * [Part 1](array/part1)
+    * [Part 2](array/part2)
