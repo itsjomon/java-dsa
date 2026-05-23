@@ -18,3 +18,4 @@ Java implementations and data structures & algorithms concepts.
 - [Array](array)
     * [Part 1](array/part1)
     * [Part 2](array/part2)
+- [Basic Sorting Algorithms](basicsortingalgorithms)
