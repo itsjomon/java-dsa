@@ -31,7 +31,7 @@ public class MaxSubarray {
     // Method II (Prefix Sum)
     public static void prefixSum(int[] nums) {
         int maxSum = Integer.MIN_VALUE;
-        int prefix[] = new int[nums.length];
+        int[] prefix = new int[nums.length];
 
         prefix[0] = nums[0];
         for (int i = 1; i < prefix.length; i++) {
@@ -75,7 +75,7 @@ public class MaxSubarray {
     }
 
     public static void main(String[] args) {
-        int nums[] = { -2, -3, 4, -1, -2, 1, 5, -3};
+        int[] nums = { -2, -3, 4, -1, -2, 1, 5, -3};
 
         // bruteForce(nums);
         // prefixSum(nums);

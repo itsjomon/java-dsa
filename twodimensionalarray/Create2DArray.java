@@ -3,7 +3,7 @@ package twodimensionalarray;
 import java.util.*;
 
 public class Create2DArray {
-    public static boolean search(int matrix[][], int key) {
+    public static boolean search(int[][] matrix, int key) {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
                 if ( matrix[i][j] == key) {
@@ -17,7 +17,7 @@ public class Create2DArray {
         return false;
     }
 
-    public static void findLargest(int matrix[][]) {
+    public static void findLargest(int[][] matrix) {
         int largest = matrix[0][0];
         
         for (int i = 0; i < matrix.length; i++) {
@@ -30,7 +30,7 @@ public class Create2DArray {
         System.out.println("Largest number: " + largest);
     }
 
-    public static void findSmallest(int matrix[][]) {
+    public static void findSmallest(int[][] matrix) {
         int smallest = matrix[0][0];
         
         for (int i = 0; i < matrix.length; i++) {
@@ -44,7 +44,7 @@ public class Create2DArray {
     }
 
     public static void main(String[] args) {
-        int matrix[][] = new int[3][3];
+        int[][] matrix = new int[3][3];
         // int n = 3, m = 3;
         int n = matrix.length, m = matrix[0].length;
 

@@ -59,7 +59,7 @@ public class Practice {
             largest = Math.max(largest, nums[i]);
         }
 
-        int count[] = new int[largest + 1];
+        int[] count = new int[largest + 1];
         for (int i = 0; i < nums.length; i++) {
             count[nums[i]]++;
         }
@@ -82,10 +82,10 @@ public class Practice {
     }
     
     public static void main(String[] args) {
-        int nums1[] = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
-        int nums2[] = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
-        int nums3[] = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
-        int nums4[] = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
+        int[] nums1 = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
+        int[] nums2 = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
+        int[] nums3 = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
+        int[] nums4 = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
         
         System.out.println("Original array: ");
         printArray(nums1);

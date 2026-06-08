@@ -41,7 +41,7 @@ public class SpriralMatrix {
     }
 
     public static void main(String[] args) {
-        int matrix[][] = {
+        int[][] matrix = {
             {1, 2, 3},
             {4, 5, 6},
             {7, 8, 9}

@@ -7,7 +7,7 @@ public class CountingSort {
             largest = Math.max(largest, nums[i]);
         }
 
-        int count[] = new int[largest + 1];
+        int[] count = new int[largest + 1];
         for (int i = 0; i < nums.length; i++) {
             count[nums[i]]++;
         }
@@ -30,7 +30,7 @@ public class CountingSort {
     }
 
     public static void main(String[] args) {
-        int nums[] = {4, 2, 2, 8, 3, 3, 1};
+        int[] nums = {4, 2, 2, 8, 3, 3, 1};
 
         sort(nums);
         printArray(nums);

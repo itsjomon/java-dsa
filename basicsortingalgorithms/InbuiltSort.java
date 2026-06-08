@@ -13,7 +13,7 @@ public class InbuiltSort {
     }
 
     public static void main(String[] args) {
-        Integer nums[] = {5, 4, 1, 3, 2};
+        Integer[] nums = {5, 4, 1, 3, 2};
 
         // Arrays.sort(nums);
         // Arrays.sort(nums, 0, 3);

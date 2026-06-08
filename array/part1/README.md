@@ -30,13 +30,13 @@ Memory Address:| 1000| 1001| 1002| 1003| 1004|
 ```java
 // Creating an Array
 
-dataType arrayName[] = new dataType[size];
+dataType[] arrayName = new dataType[size];
 
-int marks[] = new int[50];
+int[] marks = new int[50];
 
-int numbers[] = {1, 2, 3};
+int[] numbers = {1, 2, 3};
 
-String fruits[] = {"apple", "mango", "orange"};
+String[] fruits = {"apple", "mango", "orange"};
 ```
 
 ## Passing array as function arguments
