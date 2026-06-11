@@ -21,3 +21,4 @@ Java implementations and data structures & algorithms concepts.
 - [Basic Sorting Algorithms](basicsortingalgorithms)
 - [Two-Dimensional Array (2D-Array)](twodimensionalarray)
 - [Strings](strings)
+- [Bit Manipulation](bitmanipulation)
