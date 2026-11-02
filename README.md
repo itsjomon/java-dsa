@@ -14,3 +14,4 @@ Java programs covering fundamentals, data structures and algorithms.
 - [Flowcharts and Pseudocode](docs/flowcharts-and-pseudocode.md)
 - [Variables and Data Types](variables)
 - [Operators](operators)
+- [Conditional Statements](conditionals)
