@@ -15,3 +15,4 @@ Java programs covering fundamentals, data structures and algorithms.
 - [Variables and Data Types](variables)
 - [Operators](operators)
 - [Conditional Statements](conditionals)
+- [Loops](loops)
