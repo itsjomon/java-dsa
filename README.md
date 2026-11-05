@@ -19,3 +19,5 @@ Java programs covering fundamentals, data structures and algorithms.
 - [Patterns - Part 1](patterns/part1)
 - [Methods](methods)
 - [Patterns - Part 2 (Advanced)](patterns/part2)
+- [Arrays](arrays)
+  - [Part 1](arrays/part1)
