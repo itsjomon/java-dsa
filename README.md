@@ -23,3 +23,4 @@ Java programs covering fundamentals, data structures and algorithms.
   - [Part 1](arrays/part1)
   - [Part 2](arrays/part2)
 - [Basic Sorting Algorithms](sorting)
+- [Two-Dimensional (2D) Arrays](twodarrays)
