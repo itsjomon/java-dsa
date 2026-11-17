@@ -25,3 +25,4 @@ Java programs covering fundamentals, data structures and algorithms.
 - [Basic Sorting Algorithms](sorting)
 - [Strings](strings)
 - [Two-Dimensional (2D) Arrays](twodarrays)
+- [Bit Manipulation](bitmanipulation)
