@@ -27,3 +27,5 @@ Java programs covering fundamentals, data structures and algorithms.
 - [Two-Dimensional (2D) Arrays](twodarrays)
 - [Bit Manipulation](bitmanipulation)
 - [Object-Oriented Programming (OOP)](oop)
+- [Recursion](recursion)
+  - [Part 1](recursion/part1)
