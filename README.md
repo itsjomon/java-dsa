@@ -32,3 +32,4 @@ Java programs covering fundamentals, data structures and algorithms.
   - [Part 2](recursion/part2)
 - [Divide and Conquer](divideconquer)
 - [Time and Space Complexity](complexity)
+- [Backtracking](backtracking)
