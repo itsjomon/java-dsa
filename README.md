@@ -18,3 +18,4 @@ Java programs covering fundamentals, data structures and algorithms.
 - [Loops](loops)
 - [Patterns - Part 1](patterns/part1)
 - [Methods](methods)
+- [Patterns - Part 2 (Advanced)](patterns/part2)
